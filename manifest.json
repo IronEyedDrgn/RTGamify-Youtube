@@ -1,0 +1,30 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube RTGamify",
+    "version": "1.0",
+    "icons": {
+        "96": "icon.png"
+    },
+    "description": "Modify YouTube thumbnails to include RTGame",
+    "action": {
+        "default_popup": "settings.html"
+    },
+    "permissions": [
+        "storage"
+    ],
+    "host_permissions": ["*://*.youtube.com/*"],
+    "content_scripts": [{
+        "matches": ["*://*.youtube.com/*"],
+        "js": ["rtgamify.js"],
+        "run_at": "document_idle"
+    }],
+    "web_accessible_resources": [{
+        "resources": [
+            "images/*.png",
+            "images/*.json"
+        ],
+        "matches": [
+            "*://*/*"
+        ]
+    }]
+}
