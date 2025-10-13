@@ -8,6 +8,8 @@ Use RTGamify to make your YouTube browsing more enjoyable. Is using the YouTube 
 
 Should be compatible with all browsers.
 
+[![Button Download Firefox]][Download Firefox] 
+
 </div>
 
 ## Notes
@@ -18,3 +20,8 @@ Should be compatible with all browsers.
   - https://drive.google.com/drive/folders/1DG9oGEtpHjc1NFhc1hSFzpmWUjMXA4mc
   - https://drive.google.com/drive/folders/1MaAFP2UcHCqu__ng3FAsriY9rQ6OQMdQ
   - The rtgame.zip file from the turbo dismount stream (20 feb 2025)
+
+<!----------------------------------------------------------------------------->
+
+[Button Download Firefox]: https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logoColor=white&logo=Firefox
+[Download Firefox]: http://addons.mozilla.org/en-GB/firefox/addon/youtube-rtgamify/
