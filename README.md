@@ -8,7 +8,8 @@ Use RTGamify to make your YouTube browsing more enjoyable. Is using the YouTube 
 
 Should be compatible with all browsers.
 
-[![Button Download Firefox]][Download Firefox] 
+[![Button Download Firefox]][Download Firefox]
+[![Button Download Edge]][Download Edge]
 
 </div>
 
@@ -25,3 +26,6 @@ Should be compatible with all browsers.
 
 [Button Download Firefox]: https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logoColor=white&logo=Firefox
 [Download Firefox]: http://addons.mozilla.org/en-GB/firefox/addon/youtube-rtgamify/
+
+[Button Download Edge]: https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logoColor=white&logo=MicrosoftEdge
+[Download Edge]: https://microsoftedge.microsoft.com/addons/detail/youtube-rtgamify/eoigbeandepihjehpchbfbhkgmheapbb
