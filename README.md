@@ -6,10 +6,14 @@ Modify YouTube thumbnails to include photos of RTGame
 
 Use RTGamify to make your YouTube browsing more enjoyable. Is using the YouTube platform boring? Do you struggle to discover entertaining click-bait videos? Avert your fears. Every thumbnail gets the Drift King treatment thanks to this plugin.
 
-Should be compatible with all browsers.
+Should be compatible with all browsers. 
 
 [![Button Download Firefox]][Download Firefox]
-[![Button Download Edge]][Download Edge]
+[![Button Download Edge]][Download Edge] 
+
+May space out updates on Edge since they take a bit longer to accept (MagicJinn pulled the MrBeastify extension from the store for that reason)
+
+Not on Google extension store due to the fee they require, can still run by loading it unpacked
 
 </div>
 
@@ -29,3 +33,4 @@ Should be compatible with all browsers.
 
 [Button Download Edge]: https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logoColor=white&logo=MicrosoftEdge
 [Download Edge]: https://microsoftedge.microsoft.com/addons/detail/youtube-rtgamify/eoigbeandepihjehpchbfbhkgmheapbb
+
